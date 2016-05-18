@@ -1,0 +1,15 @@
+p { 
+	color: blue;
+	font-size: 12px;
+	text-decoration: line-through;
+}
+h1 {
+	color: #008000;
+	text-transform: uppercase;
+}
+body {
+	font-family: sans-serif;
+}
+h2 {
+	text-decoration: underline;
+}
