@@ -12,6 +12,7 @@ h1 {
     border-left-width: 5px;
     border-right-width: 5px;
     border-color: red;
+    background-color: #ffffff;
 }
 body {
 	font-family: sans-serif;
@@ -19,6 +20,7 @@ body {
 }
 h2 {
 	text-decoration: underline;
+	background-color: #ffffff;
 }
 #intro {
 	border-style: solid;
@@ -35,4 +37,10 @@ h2, p {
 }
 li a:hover {
 	text-transform: uppercase;
+}
+li {
+	background-color: #ffffff;
+}
+table {
+	background-color: #ffffff;
 }
